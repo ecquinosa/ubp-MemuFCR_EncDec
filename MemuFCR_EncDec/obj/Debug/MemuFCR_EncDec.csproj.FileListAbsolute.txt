@@ -1,0 +1,12 @@
+G:\MemuFCR_EncDec\MemuFCR_EncDec\bin\Debug\MemuFCR_EncDec.dll
+G:\MemuFCR_EncDec\MemuFCR_EncDec\bin\Debug\MemuFCR_EncDec.pdb
+G:\MemuFCR_EncDec\MemuFCR_EncDec\obj\Debug\MemuFCR_EncDec.csprojAssemblyReference.cache
+G:\MemuFCR_EncDec\MemuFCR_EncDec\obj\Debug\MemuFCR_EncDec.csproj.CoreCompileInputs.cache
+G:\MemuFCR_EncDec\MemuFCR_EncDec\obj\Debug\MemuFCR_EncDec.dll
+G:\MemuFCR_EncDec\MemuFCR_EncDec\obj\Debug\MemuFCR_EncDec.pdb
+L:\MemuFCR_EncDec\MemuFCR_EncDec\bin\Debug\MemuFCR_EncDec.dll
+L:\MemuFCR_EncDec\MemuFCR_EncDec\bin\Debug\MemuFCR_EncDec.pdb
+L:\MemuFCR_EncDec\MemuFCR_EncDec\obj\Debug\MemuFCR_EncDec.csprojAssemblyReference.cache
+L:\MemuFCR_EncDec\MemuFCR_EncDec\obj\Debug\MemuFCR_EncDec.csproj.CoreCompileInputs.cache
+L:\MemuFCR_EncDec\MemuFCR_EncDec\obj\Debug\MemuFCR_EncDec.dll
+L:\MemuFCR_EncDec\MemuFCR_EncDec\obj\Debug\MemuFCR_EncDec.pdb

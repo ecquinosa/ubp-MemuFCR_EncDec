@@ -1,0 +1,38 @@
+
+//consume dll .Net C# 3.5 Framework
+
+//reference MemuFCR_EncDec.dll to project
+
+//encryption process
+MemuFCR_EncDec.EncDec ed = new MemuFCR_EncDec.EncDec(key);
+string inputData = File.ReadAllText(fileName);
+ed.InputData = inputData;
+bool response = ed.EncryptData();
+if (response)
+{	
+	////handle encrypted value
+    //ed.OutputData    
+}
+else
+{
+	////handle error message
+    //ed.ErrorMessage;    
+}    
+ed = null;
+
+//decryption process
+MemuFCR_EncDec.EncDec ed = new MemuFCR_EncDec.EncDec(key);
+string inputData = File.ReadAllText(fileName);            
+ed.InputData = inputData;
+bool response = ed.DecryptData();
+if (response)
+{	
+	////handle decrypted value
+    //ed.OutputData    
+}
+else
+{
+	////handle error message
+    //ed.ErrorMessage;    
+}    
+ed = null;
